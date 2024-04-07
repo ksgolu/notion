@@ -1,0 +1,24 @@
+.nav-bar {
+  // border: 1px solid black;
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 100%;
+  padding: 0 20px;
+  color: #fff;
+}
+
+/* Styles applied when the viewport width is less than or equal to 600 pixels */
+@media screen and (max-width: 600px) {
+  /* CSS rules for small screens */
+}
+
+/* Styles applied when the viewport width is less than or equal to 768 pixels */
+@media screen and (max-width: 768px) {
+  /* CSS rules for medium-sized screens */
+}
+
+/* Styles applied when the viewport width is less than or equal to 1024 pixels */
+@media screen and (max-width: 1024px) {
+  /* CSS rules for larger screens */
+}
